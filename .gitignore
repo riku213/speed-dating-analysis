@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Secret variables
+.env
+Speed Dating Data Key.doc
+Speed Dating Data.csv
+speed-dating-experiment.zip
